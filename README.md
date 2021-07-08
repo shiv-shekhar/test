@@ -1,2 +1,2 @@
 # test
-Learning git basic command
+Learning git basic command in initial phase
